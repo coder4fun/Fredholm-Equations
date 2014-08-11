@@ -1,0 +1,15 @@
+The code provides the solution of the Fredholm integral equation of second kind using haar wavelets.
+The equation parameters can be changed as mentioned below.
+
+Run the code by running the 'solution.m' file.
+
+Input parameters:
+
+x-function: To change the 'x-function' go to x_function.m file and change it.
+
+kernel: To change the 'kernel-function' go to kernel.m file and change it.
+
+k: To vary the value of 'k' goto 'solution.m' file and change the value of k.
+
+Exact solution: If the exact solution is known, add a .m file with the function containing the exact solution 
+		and replace the existing function ( exact_solution1(2) in the solution.m file )

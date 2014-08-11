@@ -1,0 +1,12 @@
+The code gives the graphical approximation of a function using the haar wavelets.
+
+Run the code by running the Wavelet2.m file
+
+Input parameters:
+
+kmin,kmax,j - given at runtime
+
+input function: Change the input function in input_function.m file
+
+Exact solution: If the exact solution is known, add a .m file with the function containing the exact solution 
+		and replace the existing function ( exact_solution in the wavelet2.m file )                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
